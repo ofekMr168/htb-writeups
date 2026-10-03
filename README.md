@@ -15,6 +15,6 @@ I'm an offensive security practitioner (OSCP+, PNPT, PJPT) with a red-team and A
 - **Certs:** OSCP+, PNPT, PJPT
 - **Pro Labs:** Dante, Offshore
 - **Focus:** Active Directory, web/application security, red team
-- **LinkedIn:** _[add your profile link]_
+- **LinkedIn:** (https://www.linkedin.com/in/ofek-mori1285/)
 
 > All work documented here was performed in authorized lab environments (HackTheBox retired machines). No unauthorized systems were targeted.

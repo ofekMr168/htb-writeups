@@ -9,6 +9,7 @@ I'm an offensive security practitioner (OSCP+, PNPT, PJPT) with a red-team and A
 | Machine | OS | Difficulty | Key Techniques |
 |---------|-----|-----------|----------------|
 | [Usage](./Usage) | Linux | Easy | Blind SQLi (Laravel), arbitrary file upload (CVE-2023-24249), 7-Zip list-file privesc |
+| [SecNotes](./SecNotes) | Windows | Medium | CSRF account takeover, SMB→IIS webshell, WSL bash_history privesc |
 
 ## About
 

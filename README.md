@@ -11,7 +11,8 @@ I'm an offensive security practitioner (OSCP+, PNPT, PJPT) with a red-team and A
 | [Voleur](./Voleur) | Windows | Medium | ✅ Rooted | Kerberos-only AD (NTLM disabled), Excel hash crack, targeted Kerberoasting (`WriteSPN`), AD Recycle Bin restore, DPAPI credential recovery, WSL/SSH → `NTDS.dit` |
 | [Usage](./Usage) | Linux | Easy | ✅ Rooted | Blind SQLi (Laravel), arbitrary file upload (CVE-2023-24249), 7-Zip list-file privesc |
 | [SecNotes](./SecNotes) | Windows | Medium | ✅ Rooted | CSRF account takeover, SMB→IIS webshell, WSL bash_history privesc |
-| Layover | Linux | Medium | 🔒 Rooted — write-up pending retirement | — |
+| [Headless](Headless/README.md) | Linux | Easy | ✅ Rooted | Blind stored XSS via User-Agent → admin cookie theft → OS command injection → sudo relative-path hijack |
+|Layover | Linux | Medium | 🔒 Rooted — write-up pending retirement | — |
 | Touch | Windows | Easy | 🔒 Rooted — write-up pending retirement | — |
 
 > 🔒 = machine still **active**. Per HackTheBox policy, no solution details are published for active machines; the write-up goes up once the box retires.
